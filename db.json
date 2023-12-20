@@ -1,0 +1,34 @@
+{
+  "User": [
+    {
+      "name": "alex",
+      "email": "alex@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "sanjay",
+      "email": "sanjay@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "me",
+      "email": "me@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Abi",
+      "email": "Abi@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "id": 9
+    }
+  ],  "product": [
+    {
+      "id": 1,
+      "name": "tv"
+    }
+  ]
+}
